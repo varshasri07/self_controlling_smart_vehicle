@@ -1,6 +1,6 @@
 # self_controlling_smart_vehicle
 Unlike human drivers, autonomous cars will be able to operate with the same efficiency and decision making under any situation. Hence, to reduce traffic congestion, front 
-collision, provide relaxed travelling experience, provide increased safety and better observe traffic rules, autonomous cars prove to be an ideal solution The report 
+collision, provide relaxed travelling experience, provide increased safety and better observe traffic rules, autonomous cars prove to be an ideal solution The report 
 proposes a self-driving car model also called autonomous,robotic or driver-less car is one that operates and navigates using its intelligence. The basic idea is to 
 develop a car to portray an automated car. The model consists of the following software and hardware components such as CNN (Convolutional neural network), MIT app
 inventor, Arduino, and an Ultrasonic sensor.
