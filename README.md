@@ -35,3 +35,16 @@ MICROPROCESSORS AND CONTROLLERS
 4. manual mode
 5. traffic sign detection
 6. Speed control
+   
+![WhatsApp Image 2023-06-20 at 9 54 15 PM](https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/156c853c-4c7e-41c3-8e30-42a78317b11f)
+
+![WhatsApp Image 2023-06-20 at 9 54 16 PM](https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/663fec5a-9dec-4e5d-a169-c92471427721)
+
+https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/9f76d0a2-6eff-4491-8313-cf43e14d3c60
+
+![WhatsApp Image 2023-06-20 at 10 01 06 PM]
+(https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/d9f4909e-35b7-4ff0-9196-403b1433ac69)
+
+![WhatsApp Image 2023-06-20 at 10 02 10 PM](https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/fc781220-f43f-4f36-b484-d8a7839c627f)
+
+
