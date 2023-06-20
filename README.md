@@ -42,9 +42,6 @@ MICROPROCESSORS AND CONTROLLERS
 
 https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/9f76d0a2-6eff-4491-8313-cf43e14d3c60
 
-![WhatsApp Image 2023-06-20 at 10 01 06 PM]
-(https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/d9f4909e-35b7-4ff0-9196-403b1433ac69)
-
 ![WhatsApp Image 2023-06-20 at 10 02 10 PM](https://github.com/varshasri07/self_controlling_smart_vehicle/assets/110719275/fc781220-f43f-4f36-b484-d8a7839c627f)
 
 
